@@ -1,0 +1,23 @@
+# OS / 编辑器
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# 本地私密草稿（永不入库）
+_draft/
+.private/
+*.local.md
+
+# 依赖与构建
+node_modules/
+dist/
+build/
