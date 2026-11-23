@@ -26,6 +26,18 @@
 | **xingtu-testting**（本仓） | 测试实践的问题、判断与案例 | 不做模型排行榜、不做评测框架 |
 | `xingtu-agent-skills` | 可安装复用的技能 | 不记录测试失败案例 |
 
+
+## 归属与导航
+
+本仓属于[行途 XingTu 开源矩阵](https://github.com/xingtu1996)的案例集分区，主题独立维护；[名片仓](https://github.com/xingtu1996)只做索引，不复制本仓内容。
+
+案例集分四仓，按边界分工、互相引用：
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) · AI 测试
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) · Bot 形态
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) · Agent 落地
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) · 协作坏例
+
 ## 快速开始
 
 ```bash

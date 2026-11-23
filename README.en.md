@@ -26,6 +26,17 @@ Testing AI is not testing traditional software. Outputs are non-deterministic, a
 | **xingtu-testting** (this repo) | Testing problems, judgment, and cases | Model rankings or evaluation frameworks |
 | `xingtu-agent-skills` | Reusable installable skills | Testing failure cases |
 
+## Home and Navigation
+
+This repo belongs to the case-study section of the [XingTu open-source matrix](https://github.com/xingtu1996) and is maintained independently. The [profile repo](https://github.com/xingtu1996) only indexes; it does not duplicate this repo's content.
+
+The four case repos divide by boundary and cross-reference each other:
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) - AI testing
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) - Bot form factors
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) - Agent deployment
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) - Collaboration bad cases
+
 ## Quick start
 
 ```bash
